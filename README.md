@@ -100,7 +100,7 @@ $> cat data/152/801/259/5/1528012595.geojson
 ],
   "geometry": {"coordinates":[-122.37,37.62],"type":"Point"}
 }
-``
+```
 
 ## License
 
