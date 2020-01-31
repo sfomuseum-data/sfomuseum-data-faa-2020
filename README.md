@@ -1,6 +1,6 @@
 # sfomuseum-data-faa-2020
 
-FAA weather data for SFO (2020)
+2020 data from the FAA's Airport Status Web Service for SFO.
 
 ## Important
 
@@ -88,3 +88,8 @@ This is highly experiental work right now. If you are planning to try using it, 
 ## License
 
 This data is published under the [Community Data License Agreement – Permissive – Version 1.0](LICENSE) license, but we'd love a [shout-out](https://twitter.com/flysfo) and generally to hear what you're doing if you use the data.
+
+## See also
+
+* https://services.faa.gov/
+* https://github.com/Federal-Aviation-Administration/ASWS
